@@ -1,0 +1,12 @@
+{
+  "html.completion.attributeDefaultValue": "singlequotes",
+  "prettier.singleQuote": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "turboConsoleLog.quote": "'",
+  "prettier.jsxSingleQuote": true,
+  "cloudcode.yaml.format.singleQuote": true,
+  "eslint.options": {
+    "eslint.singleQuote": true
+  }
+}
